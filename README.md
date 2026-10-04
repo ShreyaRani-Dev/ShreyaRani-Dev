@@ -21,9 +21,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** — Github : 
-
-
+- **My First Project** — Github : https://github.com/ShreyaRani-Dev/Code-and-Commit-Day-2)
 
 ## 📫 Connect With Me
 
